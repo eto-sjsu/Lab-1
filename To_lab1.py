@@ -953,9 +953,9 @@ class TestProfessor(unittest.TestCase):
         self.assertEqual(professors_dict[email].rank, "Test Professor")
 
 
-if __name__ == "__main__":
-    unittest.main(verbosity=2)
-
-
 # if __name__ == "__main__":
-#     checkmygrade()
+#     unittest.main(verbosity=2)
+
+
+if __name__ == "__main__":
+    checkmygrade()

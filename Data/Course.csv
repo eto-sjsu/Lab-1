@@ -1,0 +1,22 @@
+Course_id,Credits,Course_name
+CS101,3,Intro to Computer Science
+CS201,3,Data Structures
+CS301,4,Algorithms
+CS350,3,Operating Systems
+CS410,3,Database Systems
+CS450,4,Software Engineering
+CS480,3,Computer Networks
+MATH101,4,Calculus I
+MATH201,4,Calculus II
+MATH250,3,Linear Algebra
+MATH310,3,Probability and Statistics
+BUS101,3,Intro to Business
+BUS210,3,Accounting Fundamentals
+BUS320,3,Business Communication
+BUS401,4,Strategic Management
+ENG101,3,English Composition
+ENG210,3,Technical Writing
+SCI101,4,General Biology
+SCI205,4,Chemistry I
+PSY101,3,Intro to Psychology
+DATA200,3,Programming for Analytics
